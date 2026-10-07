@@ -32,6 +32,3 @@ The system trains a Convolutional Neural Network (CNN) on the **EMNIST ByClass**
 | NumPy       | Numerical and image data processing       |
 | Matplotlib  | Image visualization and drawing interface |
 | python-docx | Saving prediction results to Word         |
-# Hand-writing-character-reconization
-A simple program use pytorch
-EMNIST Character Recognition with CN
